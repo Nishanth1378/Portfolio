@@ -2,17 +2,17 @@ Project Structure
 
 
 portfolio/
-├── server.js           # Express backend (API, SQLite, Nodemailer)
-├── messages.db         # SQLite database file (auto-created)
-├── package.json        # Backend dependencies
-├── .env                # Email credentials (not committed to Git)
-├── frontend/           # Next.js frontend app
-│   ├── package.json    # Frontend dependencies
-│   ├── pages/          # Next.js pages (routes)
-│   ├── components/     # React components
-│   ├── public/         # Static assets (images, favicon, etc.)
-│   └── ...             # Other frontend files (styles, config, etc.)
-└── README.md           # Project documentation
+├── server.js           
+├── messages.db        
+├── package.json        
+├── .env                
+├── frontend/           
+│   ├── package.json  
+│   ├── pages/          
+│   ├── components/     
+│   ├── public/         
+│   └── ...           
+└── README.md         
 
 
  🛠️ Tech Stack
