@@ -40,7 +40,9 @@ Tooling & Deployment
 ⚡ Installation
 
 Clone the repository:
+
 git clone [repository-url]
+
 cd portfolio
 
 
@@ -49,12 +51,17 @@ cd portfolio
 npm install
 
 Start the backend server:
+
 node server.js
 
 
 Start the frontend (if in a subfolder):
 cd frontend
+
+
 npm install
+
+
 npm run dev
 
 
