@@ -1,4 +1,6 @@
 Project Structure 
+
+
 portfolio/
 ├── server.js           # Express backend (API, SQLite, Nodemailer)
 ├── messages.db         # SQLite database file (auto-created)
